@@ -32,4 +32,5 @@ postrank.com/*/blog_claim.png?
 romancecufarmec.ro/*/banners/banner_
 monitive.com/uptimebutton/
 
-# http://otiliasblog.ro/
+# imperatortravel.ro
+imperatortravel.ro/banners/
