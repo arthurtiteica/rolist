@@ -1,0 +1,35 @@
+# RO
+admonitoring.bsgroup.ro/Tracking
+
+# http://www.realitatea.net/
+2parale.ro/js/*/campaigns
+
+# zoso.ro
+powercart.ro/*/powercart.gif
+profitshare.ro
+e-day.ro/api/produs
+
+# elle.ro
+breslo.ro/widget/*/affilitate
+
+# piticu.ro
+profiling.avandor.com
+
+# http://www.romaniatv.net
+pricefab.com/ro/prompt?
+
+# manafu.ro
+evensys.ro/*/*125x125.
+/banner-*.
+
+# ghenea.ro
+ujmag.ro/widget_
+ujmag.ro/banner_
+
+# http://cristinatm.net/
+piatadigitala.ro/*/banners/
+postrank.com/*/blog_claim.png?
+romancecufarmec.ro/*/banners/banner_
+monitive.com/uptimebutton/
+
+# http://otiliasblog.ro/
