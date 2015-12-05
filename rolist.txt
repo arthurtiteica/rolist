@@ -1,3 +1,9 @@
+! Version: 2
+! Title: RO list
+! Expires: 1 days
+! Licence: https://github.com/arthurtiteica/rolist
+! Homepage: https://github.com/arthurtiteica/rolist
+
 # RO
 admonitoring.bsgroup.ro/Tracking
 
